@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariahnotmaria
-- 👀 I’m interested in minecraft, movies, and history.
+- 👀 I’m interested in indie music, art house film, and national parks.
 - 🌱 I’m currently learning computer science, soon to be enrolled at UNT.
 - 💞️ I’m looking to collaborate on introductry projects.
 - 📫 How to reach me: collab enquiries at mariahgardner00@gmail.com
