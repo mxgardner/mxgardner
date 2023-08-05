@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariahnotmaria
 - 👀 I’m interested in space, robotics, and a career in research.
-- 🌱 I’m currently learning computer science as an undergraduate at University of Texas at Arlington.
-- 💞️ I’m looking to collaborate on introductry projects.
+- 🌱 I’m currently learning computer science as an undergraduate at the University of Texas at Arlington.
+- 💞️ I’m looking to collaborate on introductry research projects.
 - 📫 How to reach me: collab enquiries at mariahgardner00@gmail.com
 
 <!---
