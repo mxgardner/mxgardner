@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariahnotmaria
 - 👀 I’m interested in robotic controls, front-end web deveolpment, and a career in research.
 - 🌱 I’m currently a freshman computer engineering student at the University of Texas at Arlington.
-- 💞️ I’m looking to collaborate on projects! 
+- 💞️ I’m looking for any and all kinds of learning oppertunities!
 - 📫 How to reach me: collab enquiries at mariahgardner00@gmail.com
 
 <!---
